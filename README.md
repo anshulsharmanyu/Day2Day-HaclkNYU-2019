@@ -23,8 +23,9 @@ We learnt how to work in a team and time management. Also, we learnt data visual
 Create a mobile application for it and launch it on Apple store and Android play store for NYU students.
 
 ## Screenshots
+![login](https://user-images.githubusercontent.com/32939619/52917226-ef325280-32b6-11e9-99be-7273cbb286b2.jpeg)
+![register](https://user-images.githubusercontent.com/32939619/52917227-ef325280-32b6-11e9-876b-e371737106e4.jpeg)
 ![courses](https://user-images.githubusercontent.com/32939619/52917222-ef325280-32b6-11e9-9b84-46811d171c04.jpeg)
 ![events](https://user-images.githubusercontent.com/32939619/52917224-ef325280-32b6-11e9-89ed-f03413aa4120.jpeg)
 ![favourites](https://user-images.githubusercontent.com/32939619/52917225-ef325280-32b6-11e9-87f1-b2c381681669.jpeg)
-![login](https://user-images.githubusercontent.com/32939619/52917226-ef325280-32b6-11e9-99be-7273cbb286b2.jpeg)
-![register](https://user-images.githubusercontent.com/32939619/52917227-ef325280-32b6-11e9-876b-e371737106e4.jpeg)
+
